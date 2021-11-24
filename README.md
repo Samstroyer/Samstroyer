@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Samstroyer
 - 👀 I’m interested in programming!
 - 🌱 I’m currently learning things in school, so ask me anything I guess :p
-- 💞️ I’m looking to collaborate on nothing rn
+- 💞️ I’m not looking to collaborate on anything
 - 📫 How to reach me mail, if you find it :)
 
 <!---
