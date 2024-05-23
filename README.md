@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Samstroyer
 - 👀 I’m interested in programming!
-- 🌱 I’m currently learning things in school, so ask me anything I guess :p
+- 🌱 I’m currently studying, but looking for jobs 
 - 💞️ I’m not looking to collaborate on anything
-- 📫 How to reach me mail, if you find it :)
 
+* [My linked in](https://www.linkedin.com/in/samuel-palmér-b1b147257/)
 <!---
 Samstroyer/Samstroyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
